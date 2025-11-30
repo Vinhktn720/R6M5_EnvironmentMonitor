@@ -33,3 +33,7 @@ node_modules/
 
 # macOS
 ._*
+
+# Stack dump (Windows)
+bash.exe.stackdump
+*.stackdump
